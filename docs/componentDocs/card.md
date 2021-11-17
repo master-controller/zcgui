@@ -1,9 +1,9 @@
 # 卡片组件
 
 ### 示例
-<!-- 本地开发 -->
+<!-- config.js无base配置时 -->
 <!-- <z-card imgSrc="/course.png" summary="Vue"></z-card> -->
-<!-- 发布到github -->
+<!-- config.js加了配置base:'/zcgui/'-->
 <z-card imgSrc="/zcgui/course.png" summary="Vue"></z-card>
 
 ### 代码
