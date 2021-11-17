@@ -1,20 +1,19 @@
-# mooc-ui组件库
+# 快速开始
 
-### 快速开始
-
-#### 1.安装
+#### 安装组件库
 ```bash
 npm i zcg-ui
 ```
 
-#### 2.引用
+#### 引用组件库
+> 在main.js中引入组件库
 ```javascript
-// 全部引用
+// 全部引入
 import 'zcg-ui/dist/css/index.css';
 import ZUI from 'zcg-ui';
 Vue.use(ZUI);
 
-//按需引用
+// 按需引入
 import 'zcg-ui/dist/css/demo.css';
 import {Demo} from 'zcg-ui';
 Vue.use(Demo);
