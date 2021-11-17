@@ -1,7 +1,10 @@
 # 卡片组件
 
 ### 示例
-<z-card imgSrc="/course.png" summary="Vue"></z-card>
+<!-- 本地开发 -->
+<!-- <z-card imgSrc="/course.png" summary="Vue"></z-card> -->
+<!-- 发布到github -->
+<z-card imgSrc="/zcgui/course.png" summary="Vue"></z-card>
 
 ### 代码
 ```html
