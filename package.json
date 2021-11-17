@@ -1,7 +1,7 @@
 {
   "name": "zcg-ui",
   "version": "0.1.0",
-  "description": "测试组件库",
+  "description": "zcg组件库",
   "main": "dist/index.umd.js",
   "keywords": [
     "zcg",
